@@ -1,6 +1,0 @@
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Projectile\bin\Debug\Projectile.dll
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Projectile\bin\Debug\Projectile.pdb
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Projectile\obj\Debug\Projectile.csprojAssemblyReference.cache
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Projectile\obj\Debug\Projectile.csproj.CoreCompileInputs.cache
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Projectile\obj\Debug\Projectile.dll
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Projectile\obj\Debug\Projectile.pdb

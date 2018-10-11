@@ -1,9 +1,0 @@
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\bin\Debug\Network_Support.dll
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\bin\Debug\Network_Support.pdb
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\bin\Debug\Newtonsoft.Json.dll
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\bin\Debug\Newtonsoft.Json.xml
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\obj\Debug\Network_Support.csprojAssemblyReference.cache
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\obj\Debug\Network_Support.csproj.CoreCompileInputs.cache
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\obj\Debug\Network_Support.csproj.CopyComplete
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\obj\Debug\Network_Support.dll
-\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Network_Support\obj\Debug\Network_Support.pdb
