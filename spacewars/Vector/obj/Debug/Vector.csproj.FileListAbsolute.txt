@@ -1,0 +1,9 @@
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\bin\Debug\Vector.dll
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\bin\Debug\Vector.pdb
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\bin\Debug\Newtonsoft.Json.dll
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\bin\Debug\Newtonsoft.Json.xml
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\obj\Debug\Vector.csprojAssemblyReference.cache
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\obj\Debug\Vector.csproj.CoreCompileInputs.cache
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\obj\Debug\Vector.csproj.CopyComplete
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\obj\Debug\Vector.dll
+\\chips.eng.utah.edu\home\jinh\.win_desktop\SpaceWars\Vector\obj\Debug\Vector.pdb
